@@ -18,7 +18,7 @@ Null distribution of Wilcoxon signed rank, Wilcoxon rank sum, Kruskal Wallis Tes
   <img width="260" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw2_kruskal.jpg">
  </div>
  
- > Find implementation & testing details [here](./hw_implementation.docx)
+</br> > Find implementation & testing details [here](./hw_implementation.docx)
  
  --------------------------------------------------------------------
  
