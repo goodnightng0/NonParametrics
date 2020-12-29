@@ -5,16 +5,16 @@ HW & Studying records of STAT332 Non-parametric Statistics
 ### HW : [hw1](./hw1) & [hw2](./hw2)
 Null distribution of Wilcoxon signed rank, Wilcoxon rank sum, Kruskal Wallis Test
 <div>
-  <img width="190" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_signedrank.jpg">
-  <img width="240" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_ranksum.jpg">
-  <img width="160" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_kruskal.jpg">
+  <img height="200" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_signedrank.jpg">
+  <img height="200" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_ranksum.jpg">
+  <img height="200" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_kruskal.jpg">
  </div>
 
  </br> > Use null distribution p-values for **testing**
  </br>
  <div>
   <img width="170" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw2_signedrank.jpg">
-  <img width="190" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw2_ranksum.jpg">
+  <img width="180" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw2_ranksum.jpg">
   <img width="260" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw2_kruskal.jpg">
  </div>
  
