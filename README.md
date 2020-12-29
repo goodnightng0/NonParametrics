@@ -1,7 +1,7 @@
 # NonParametrics
 HW & Studying records of STAT332 Non-parametric Statistics
 
---------------------------------------------------------------------
+#
 ### HW : [hw1](./hw1) & [hw2](./hw2)
 Null distribution of Wilcoxon signed rank, Wilcoxon rank sum, Kruskal Wallis Test
 <div>
@@ -20,7 +20,7 @@ Null distribution of Wilcoxon signed rank, Wilcoxon rank sum, Kruskal Wallis Tes
  
 </br> > Find implementation & testing details [here](./hw_implementation.docx)
  
- --------------------------------------------------------------------
+ #
  
 ### Studying records : [others](./others)
 - including Theil-Sen estimator / Kolmogorov–Smirnov /Jonckheere test
