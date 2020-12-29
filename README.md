@@ -9,12 +9,16 @@ Null distribution of Wilcoxon signed rank, Wilcoxon rank sum, Kruskal Wallis Tes
   <img width="250" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_ranksum.jpg">
   <img width="160" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_kruskal.jpg">
  </div>
- Use null distribution p-values for testing
+ 
+ 
+ --> Use null distribution p-values for testing
  <div>
   <img width="200" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw2_signedrank.jpg">
   <img width="230" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw2_ranksum.jpg">
   <img width="250" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw2_kruskal.jpg">
  </div>
+ 
+ --------------------------------------------------------------------
  
 ### Studying records : [others](./others)
 - including Theil-Sen estimator / Kolmogorov–Smirnov /Jonckheere test
