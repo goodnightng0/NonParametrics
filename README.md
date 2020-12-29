@@ -5,8 +5,8 @@ HW & Studying records of STAT332 Non-parametric Statistics
 ### HW : [hw1](./hw1) & [hw2](./hw2)
 Null distribution of Wilcoxon signed rank, Wilcoxon rank sum, Kruskal Wallis Test
 <div>
-  <img width="200" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_signedrank.jpg">
-  <img width="250" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_ranksum.jpg">
+  <img width="190" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_signedrank.jpg">
+  <img width="240" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_ranksum.jpg">
   <img width="160" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_kruskal.jpg">
  </div>
 
