@@ -9,9 +9,8 @@ Null distribution of Wilcoxon signed rank, Wilcoxon rank sum, Kruskal Wallis Tes
   <img width="250" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_ranksum.jpg">
   <img width="160" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw1_kruskal.jpg">
  </div>
- </br></br>
- > Use null distribution p-values for testing
- 
+ </br>
+ > Use null distribution p-values for testing</br>
  <div>
   <img width="170" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw2_signedrank.jpg">
   <img width="200" src="https://github.com/goodnightng0/NonParametrics/blob/main/hw_demo/hw2_ranksum.jpg">
